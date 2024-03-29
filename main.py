@@ -44,7 +44,7 @@ def main(page: ft.Page):
         label='Assunto',
         hint_text='Assunto',
         options=[
-            ft.dropdown.Option('MSA'),
+            ft.dropdown.Option('MS'),
             ft.dropdown.Option('MTS'),
             ft.dropdown.Option('Método Instrumento'),
             ft.dropdown.Option('Hino'),
